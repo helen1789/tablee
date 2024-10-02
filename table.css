@@ -1,0 +1,22 @@
+td, th {
+    border: solid rgb(165, 164, 164) 1px;
+    padding: 3px;
+    text-align: left;
+    width: 180px;
+    }
+
+
+table{
+    border: solid rgb(165, 164, 164) 0.5px;
+    border-spacing: 0px;
+   
+}
+
+.horarios{
+text-align: right;
+width: 50px;
+}
+
+.partEcheg{
+    width: 50px;
+}
